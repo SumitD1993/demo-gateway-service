@@ -1,2 +1,2 @@
-# microservices-patterns-on-docker
+# gateway-service-demo
 Demos for various microservices pattern implementation
